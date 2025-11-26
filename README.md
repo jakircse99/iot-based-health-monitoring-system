@@ -43,12 +43,13 @@ The Internet of Things (IoT) has become an important part of modern technology, 
 - Firebase Real-time Database
 
 ## Project Folder Structure
+```
 iot-based-health-monitoring-system/
-│
-├── circuit-design/ # Circuit diagrams and hardware design
-├── esp32-firmware/ # ESP32 microcontroller code
-├── mobile-app/ # Mobile application source code
-└── web-dashboard/ # Web dashboard source code
+├── circuit-design/      # Circuit diagrams and hardware design files
+├── esp32-firmware/      # ESP32 firmware source code
+├── mobile-app/          # Mobile application source code
+└── web-dashboard/       # Web dashboard source code
+```
 
 ## How the System Works
 1. Sensors collect real-time health and environmental data.
