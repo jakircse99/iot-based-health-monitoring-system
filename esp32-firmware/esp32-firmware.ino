@@ -1,23 +1,23 @@
 /***************************************************
  * IoT Smart Health Monitoring System
  * ---------------------------------
- * Department of Computer Science & Engineering
- * Prime University
- *
  * Description:
  * This ESP32 firmware measure fundamental health parameters including heart rate, SpO₂, body temperature, ECG signal, room temperature and humidity using sensors.
  * The data is transmitted in real-time to Firebase and visualized on web dashboard and Android app.
  * The system includes alerts for abnormal readings to provide quick feedback on the user's health status.
  *
  * Authors:
- * - Jakir Hossain (52nd Evening Batch)
+ * - Jakir Hossain (52nd Batch)
  * Collaborator:
- * - KM Zunayed (55th Evening Batch)
+ * - KM Zunayed (55th Batch)
  *
  * Supervisor:
  * - Md. Samrat Ali Abu Kawser (Senior Lecturer)
  *
- * Date: October 20th, 2025
+ * Department of Computer Science & Engineering
+ * Prime University
+ *
+ * Date: September 19th, 2025
  ***************************************************/
 #define ENABLE_USER_AUTH // enable firebase user auth
 #define ENABLE_DATABASE // enable firebase database
